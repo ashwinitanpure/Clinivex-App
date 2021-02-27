@@ -1,0 +1,2 @@
+# Clinivex-App
+An Android application with java based backend designed to simplify interaction between doctors and patients. Supports systematic categorization of doctors based on speciality, automates appointment booking and cancellation, archival of prescriptions and medical report, user authentication among other features. (Additional modules of blood and organ donation facilitates registration of potential donors and requesters.)
